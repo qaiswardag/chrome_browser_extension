@@ -24,13 +24,5 @@ Take control of your YouTube viewing experience with YouTube Timestamp Bookmarke
 ### Understanding Chrome Extensions
 Explore the basic structure and functionality of Chrome extensions using Manifest V3.
 
-
-# How to Use This Repository
-
-1. Clone or download the repository to your local machine.
-2. Explore the provided examples and resources.
-3. Follow along with the step-by-step guides to build your own Chrome extensions.
-4. Experiment, learn, and customize the examples to suit your needs.
-
 # Contributing
 Contributions to this repository are welcome! If you have additional examples, tips, or improvements, feel free to open an issue or submit a pull request.
