@@ -3,3 +3,5 @@
 .DS_Store
 /public
 /bills
+
+/node_modules
